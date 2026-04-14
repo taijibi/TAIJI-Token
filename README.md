@@ -8,7 +8,7 @@ Official BEP20 token on BNB Smart Chain (BSC)
 - **Decimals**: 18
 - **Total Supply**: 1,000,000,000
 - **Buy/Sell Tax**: 5% (Automatic Burn, stops at 21,000,000 supply)
-- **Verified on BscScan**: [你的合约 bscscan 地址](https://bscscan.com/address/0x623c37a191E3BD25A4A02f61792BF6Ef0cce3d6D)
+- **Verified on BscScan**: https://bscscan.com/address/0x623c37a191E3BD25A4A02f61792BF6Ef0cce3d6D
 
 ## 📧 Official Contact
 - **Email**: 982698032@qq.com
