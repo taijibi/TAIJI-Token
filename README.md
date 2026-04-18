@@ -16,7 +16,7 @@ Official BEP20 token on BNB Smart Chain (BSC)
 - **Telegram**: 
 
 ## 📝 Project Description
-TAIJI is a community-driven BEP20 MEME token on BNB Smart Chain, featuring 5% automatic burn tax on buy/sell, stopping when total supply hits 21,000,000. Fully open-source, verified on BscScan, committed to fair launch and community growth.
+“太极” is a community-driven BEP20 MEME token on BNB Smart Chain, featuring 5% automatic burn tax on buy/sell, stopping when total supply hits 21,000,000. Fully open-source, verified on BscScan, committed to fair launch and community growth.
 
 ## 🎨 Official Logos
 - 256x256 PNG: [logo.png](./logo.png)
